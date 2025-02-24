@@ -1,4 +1,4 @@
-name: CI WAS Scan
+name: CI WAS Scan SKO25
 on:
   push:
     branches:
